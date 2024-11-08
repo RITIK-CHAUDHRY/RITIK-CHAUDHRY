@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**RITIK-CHAUDHRY/RITIK-CHAUDHRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Myself Ritik chaudhry </p>
+- I am student of Motilal Nehru National Institute Of Technology, here I am pursuing my B.Tech in Chemical engineering.
+- I am student of Indian Institute Of Technology Madras, pursuing my B.S in Data Science in Data science and it and Appliations.
+- I have an interest in Quantitative analysis and wants to work in high frequency trading firms(HFTs)
+- I am currently learning machin learning algorithms and generative AI
 
-Here are some ideas to get you started:
+## Socials
+https://www.linkedin.com/in/ritik-chaudhry
+https://www.instagram.com/ritik._.chaudhry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![An image of @ritikchaudhry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikchaudhry)](https://holopin.io/@ritikchaudhry)

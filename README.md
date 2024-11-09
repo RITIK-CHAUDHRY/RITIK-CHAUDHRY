@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-## Myself Ritik chaudhry </p>
+
+<h3 style="text-align:center;"> Myself Ritik Chaudhry </h3>
 - I am student of Motilal Nehru National Institute Of Technology, here I am pursuing my B.Tech in Chemical engineering.
 - I am student of Indian Institute Of Technology Madras, pursuing my B.S in Data Science in Data science and it and Appliations.
 - I have an interest in Quantitative analysis and wants to work in high frequency trading firms(HFTs)

@@ -17,19 +17,6 @@
 
 [![An image of @ritikchaudhry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikchaudhry)](https://holopin.io/@ritikchaudhry)
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/RITIK-CHAUDHRY/github-readme-stats"><img alt="Ritik Chaudhry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RITIK-CHAUDHRY&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RITIK-CHAUDHRY/github-readme-stats"><img alt="Ritik Chaudhry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITIK-CHAUDHRY&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/RITIK-CHAUDHRY/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ritik Chaudhry's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RITIK-CHAUDHRY&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<br/>
 
 <!--
 

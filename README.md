@@ -11,9 +11,8 @@
 - I am currently learning machine learning algorithms and generative AI
 
 ## Socials
-- https://www.linkedin.com/in/ritik-chaudhry
-
-- https://www.instagram.com/ritik._.chaudhry
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik._.chaudhry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-chaudhry)
 
 [![An image of @ritikchaudhry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikchaudhry)](https://holopin.io/@ritikchaudhry)
 

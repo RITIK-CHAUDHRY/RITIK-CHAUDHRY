@@ -18,6 +18,8 @@
 [![An image of @ritikchaudhry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikchaudhry)](https://holopin.io/@ritikchaudhry)
 
 
+## 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=RITIK-CHAUDHRY&theme=onestar&no-frame=true" width="800"/>
 <!--
 
 <td colspan="2" align="center">

@@ -14,6 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik._.chaudhry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-chaudhry)
 
+## Hacktober Badges
 [![An image of @ritikchaudhry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikchaudhry)](https://holopin.io/@ritikchaudhry)
 
 ## 📊 My Github Stats
@@ -32,25 +33,5 @@
 
 ## 🏆 GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=RITIK-CHAUDHRY&theme=onestar&no-frame=true" width="800"/>
-<!--
 
-<td colspan="2" align="center">
-      <details open><summary>For a user or an organization</summary><img src="https://github.com/RITIK-CHAUDHRY/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg" alt=""></img></details>
-      <details><summary>For a repository</summary><img src="https://github.com/RITIK-CHAUDHRY/lowlighter/metrics/blob/examples/metrics.plugin.introduction.repository.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td> 
-    
-    <br/>
-    
-    <tr>
-    <td colspan="2" align="center">
-      <details open><summary>PageSpeed scores</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" alt=""></img></details>
-      <details><summary>PageSpeed scores with detailed report</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.detailed.svg" alt=""></img></details>
-      <details><summary>PageSpeed scores with a website screenshot</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.screenshot.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-    
-    -->
-    
-<br/>
 

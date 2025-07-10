@@ -7,9 +7,8 @@
 
 - I am student of Motilal Nehru National Institute Of Technology, here I am pursuing my B.Tech in Chemical engineering.
 - I am student of Indian Institute Of Technology Madras, pursuing my B.S in Data Science in Data science and it and Appliations.
-- I have an interest in Quantitative analysis and wants to work in high frequency trading firms(HFTs)
+- I have an interest in Quantitative analysis and wants to work in Investment Banking firms.
 - I am currently learning machine learning algorithms and generative AI
-
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritik._.chaudhry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-chaudhry)
